@@ -1,7 +1,8 @@
 import sys
+input=sys.stdin.readline
 
-n,k=map(int,input().split())
-score=list(map(int,sys.stdin.readline().split()))
-score.sort(reverse=True)
+N,k=map(int,input().split())
+scores=list(map(int,input().split()))
 
-print(score[k-1])
+scores.sort(reverse=True)
+print(scores[k-1])

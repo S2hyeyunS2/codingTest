@@ -1,10 +1,10 @@
 # [level 1] x만큼 간격이 있는 n개의 숫자 - 12954 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12954) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12954?language=python3) 
 
 ### 성능 요약
 
-메모리: 81.5 MB, 시간: 0.06 ms
+메모리: 9.29 MB, 시간: 0.09 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 09월 17일 10:29:44
+2025년 11월 23일 20:00:29
 
 ### 문제 설명
 

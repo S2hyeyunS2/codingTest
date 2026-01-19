@@ -2,12 +2,13 @@ import sys
 input=sys.stdin.readline
 
 N=int(input())
-A=set(map(int,input().split()))
-M=int(input())
-B=list(map(int,input().split()))
+N_list=set(map(int,input().split()))
 
-for b in B:
-    if b in A:
+M=int(input())
+M_list=list(map(int,input().split()))
+
+for i in range(M):
+    if M_list[i] in N_list:
         print(1)
     else:
         print(0)
